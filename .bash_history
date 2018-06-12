@@ -27,3 +27,10 @@ bundle update
 cd
 git config user.name "umber-ellor"
 git init
+git add -A
+git status
+git commit -m "Initialize repository"
+git log
+git checkout -b modify-README
+git branch
+git status
