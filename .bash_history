@@ -34,3 +34,5 @@ git log
 git checkout -b modify-README
 git branch
 git status
+git commit -a -m "Improve the README file"
+git checkout master
