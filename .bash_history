@@ -36,3 +36,5 @@ git branch
 git status
 git commit -a -m "Improve the README file"
 git checkout master
+git commit -a -m "Improved README"
+git checkout master
